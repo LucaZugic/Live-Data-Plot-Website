@@ -1,0 +1,35 @@
+body{
+    background: #1D2B40;
+    color: #ffffff;
+}
+
+.btn-primary {
+    background-color: #ffffff;
+    color:#000000;
+    border-color: #84EFCB;
+}
+
+.btn-primary:hover {
+    background-color: #84EFCB;
+    color: #ffffff;
+    border-color: #84EFCB;
+}
+
+.header-content {
+    border-bottom-color: #84EFCB;
+    border-bottom-width: 1px solid;
+}
+
+.content-section {
+    padding: 12px 15px;
+    border: 1px solid #84EFCB;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    opacity: 0.85;
+}
+
+.row {
+    padding-top: 45px;
+}
+
+
