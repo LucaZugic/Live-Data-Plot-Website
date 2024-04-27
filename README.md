@@ -1,4 +1,4 @@
-This project provides a general outline of one way in which it would be possible to update a graph on a website regularly with "live" data.
+This project provides a general outline of updating a graph on a website regularly with "live" data.
 Please feel free to use this template for your own project.
 I will update the code with comments where I feel you might want to adapt parameters and add your own code.
 
